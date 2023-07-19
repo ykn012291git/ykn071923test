@@ -1,0 +1,1 @@
+txtThis is the process to create a file on GIT.
