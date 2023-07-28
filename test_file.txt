@@ -1,1 +1,2 @@
+this is a new content on this filr 07272023 :wq!
 txtThis is the process to create a file on GIT.
